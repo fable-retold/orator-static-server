@@ -1,6 +1,7 @@
 {
-	"Generated": "2026-04-10T17:23:24.439Z",
-	"DocumentCount": 0,
+	"Generated": "2026-05-22T05:41:42.572Z",
+	"Mode": "module",
+	"DocumentCount": 5,
 	"LunrIndex": {
 		"version": "2.3.9",
 		"fields": [
@@ -9,11 +10,3021 @@
 			"group",
 			"body"
 		],
-		"fieldVectors": [],
-		"invertedIndex": [],
+		"fieldVectors": [
+			[
+				"title/README.md",
+				[
+					0,
+					3.677,
+					1,
+					3.939,
+					2,
+					3.356
+				]
+			],
+			[
+				"module/README.md",
+				[
+					0,
+					1.954,
+					1,
+					2.094,
+					2,
+					1.783
+				]
+			],
+			[
+				"group/README.md",
+				[]
+			],
+			[
+				"body/README.md",
+				[
+					0,
+					0.736,
+					1,
+					0.726,
+					2,
+					0.641,
+					3,
+					0.164,
+					4,
+					0.156,
+					5,
+					0.082,
+					6,
+					1.825,
+					7,
+					1.302,
+					8,
+					0.474,
+					9,
+					1.152,
+					10,
+					1.302,
+					11,
+					1.302,
+					12,
+					1.302,
+					13,
+					1.152,
+					14,
+					1.302,
+					15,
+					1.302,
+					16,
+					0.822,
+					17,
+					1.302,
+					18,
+					0.709,
+					19,
+					1.302,
+					20,
+					0.822,
+					21,
+					0.822,
+					22,
+					0.822,
+					23,
+					0.506,
+					24,
+					0.506,
+					25,
+					0.506,
+					26,
+					0.822,
+					27,
+					0.379,
+					28,
+					0.379,
+					29,
+					0.709,
+					30,
+					0.506,
+					31,
+					0.506,
+					32,
+					1.825,
+					33,
+					0.819,
+					34,
+					0.709,
+					35,
+					0.822,
+					36,
+					0.709,
+					37,
+					0.709,
+					38,
+					0.822,
+					39,
+					0.27,
+					40,
+					0.819,
+					41,
+					0.122,
+					42,
+					0.819,
+					43,
+					0.379,
+					44,
+					0.379,
+					45,
+					0.822,
+					46,
+					1.302,
+					47,
+					0.822,
+					48,
+					0.132,
+					49,
+					0.822,
+					50,
+					0.379,
+					51,
+					1.302,
+					52,
+					0.27,
+					53,
+					0.822,
+					54,
+					1.302,
+					55,
+					0.506,
+					56,
+					0.822,
+					57,
+					2.283,
+					58,
+					0.822,
+					59,
+					0.822,
+					60,
+					0.822,
+					61,
+					1.302,
+					62,
+					1.302,
+					63,
+					1.302,
+					64,
+					0.822,
+					65,
+					1.302,
+					66,
+					1.302,
+					67,
+					1.825,
+					68,
+					1.302,
+					69,
+					1.302
+				]
+			],
+			[
+				"title/_cover.md",
+				[
+					0,
+					3.677,
+					1,
+					3.939,
+					2,
+					3.356
+				]
+			],
+			[
+				"module/_cover.md",
+				[
+					0,
+					1.954,
+					1,
+					2.094,
+					2,
+					1.783
+				]
+			],
+			[
+				"group/_cover.md",
+				[]
+			],
+			[
+				"body/_cover.md",
+				[
+					0,
+					0.681,
+					1,
+					0.73,
+					2,
+					0.622,
+					3,
+					0.163,
+					4,
+					0.152,
+					5,
+					0.126,
+					8,
+					0.415,
+					27,
+					0.415,
+					28,
+					0.415,
+					29,
+					0.778,
+					30,
+					0.778,
+					31,
+					0.778,
+					33,
+					0.778,
+					36,
+					0.778,
+					37,
+					0.778,
+					41,
+					0.129,
+					42,
+					0.778,
+					48,
+					0.126,
+					50,
+					0.415,
+					52,
+					0.415,
+					70,
+					2
+				]
+			],
+			[
+				"title/api-reference.md",
+				[
+					5,
+					0.961,
+					71,
+					5.952
+				]
+			],
+			[
+				"module/api-reference.md",
+				[
+					0,
+					1.954,
+					1,
+					2.094,
+					2,
+					1.783
+				]
+			],
+			[
+				"group/api-reference.md",
+				[]
+			],
+			[
+				"body/api-reference.md",
+				[
+					0,
+					0.287,
+					1,
+					0.659,
+					3,
+					0.157,
+					4,
+					0.137,
+					5,
+					0.064,
+					8,
+					0.211,
+					18,
+					0.713,
+					27,
+					0.38,
+					28,
+					0.211,
+					29,
+					0.396,
+					30,
+					0.594,
+					31,
+					0.396,
+					33,
+					0.792,
+					34,
+					0.594,
+					35,
+					0.644,
+					36,
+					0.848,
+					39,
+					0.616,
+					40,
+					0.713,
+					41,
+					0.117,
+					42,
+					0.594,
+					43,
+					0.211,
+					44,
+					0.211,
+					45,
+					0.644,
+					47,
+					0.644,
+					55,
+					0.396,
+					56,
+					0.644,
+					59,
+					0.965,
+					60,
+					1.157,
+					71,
+					0.396,
+					72,
+					1.019,
+					73,
+					1.019,
+					74,
+					1.019,
+					75,
+					1.019,
+					76,
+					1.019,
+					77,
+					1.157,
+					78,
+					1.019,
+					79,
+					1.528,
+					80,
+					2.374,
+					81,
+					1.019,
+					82,
+					1.019,
+					83,
+					1.019,
+					84,
+					0.644,
+					85,
+					1.019,
+					86,
+					1.019,
+					87,
+					0.644,
+					88,
+					2.181,
+					89,
+					1.528,
+					90,
+					1.833,
+					91,
+					1.019,
+					92,
+					1.019,
+					93,
+					0.644,
+					94,
+					0.644,
+					95,
+					1.019,
+					96,
+					0.644,
+					97,
+					1.019,
+					98,
+					1.019,
+					99,
+					1.019,
+					100,
+					0.644,
+					101,
+					1.528,
+					102,
+					1.019,
+					103,
+					1.019,
+					104,
+					1.019,
+					105,
+					1.019,
+					106,
+					1.019,
+					107,
+					1.019,
+					108,
+					1.019,
+					109,
+					1.019,
+					110,
+					1.019,
+					111,
+					1.019,
+					112,
+					1.019,
+					113,
+					1.019,
+					114,
+					1.019,
+					115,
+					1.528,
+					116,
+					1.019,
+					117,
+					1.019,
+					118,
+					1.019,
+					119,
+					1.019,
+					120,
+					1.019,
+					121,
+					1.019,
+					122,
+					1.019,
+					123,
+					1.019,
+					124,
+					1.019
+				]
+			],
+			[
+				"title/getting-started.md",
+				[
+					52,
+					3.177,
+					125,
+					5.952
+				]
+			],
+			[
+				"module/getting-started.md",
+				[
+					0,
+					1.954,
+					1,
+					2.094,
+					2,
+					1.783
+				]
+			],
+			[
+				"group/getting-started.md",
+				[]
+			],
+			[
+				"body/getting-started.md",
+				[
+					1,
+					0.83,
+					2,
+					0.625,
+					3,
+					0.161,
+					4,
+					0.161,
+					5,
+					0.153,
+					9,
+					1.091,
+					13,
+					1.091,
+					16,
+					1.091,
+					21,
+					1.091,
+					22,
+					1.091,
+					23,
+					0.672,
+					24,
+					0.672,
+					25,
+					0.672,
+					39,
+					0.359,
+					41,
+					0.13,
+					43,
+					0.359,
+					44,
+					0.359,
+					48,
+					0.108,
+					52,
+					0.359,
+					55,
+					0.672,
+					71,
+					0.672,
+					77,
+					1.091,
+					93,
+					1.091,
+					100,
+					1.091,
+					125,
+					0.672,
+					126,
+					1.091,
+					127,
+					1.728,
+					128,
+					1.728,
+					129,
+					1.728,
+					130,
+					1.728,
+					131,
+					1.091,
+					132,
+					1.091,
+					133,
+					1.728,
+					134,
+					1.728,
+					135,
+					2.206,
+					136,
+					1.728,
+					137,
+					1.728,
+					138,
+					1.728,
+					139,
+					1.728
+				]
+			],
+			[
+				"title/subdomain-routing.md",
+				[
+					41,
+					0.697,
+					48,
+					0.819,
+					50,
+					2.706
+				]
+			],
+			[
+				"module/subdomain-routing.md",
+				[
+					0,
+					1.954,
+					1,
+					2.094,
+					2,
+					1.783
+				]
+			],
+			[
+				"group/subdomain-routing.md",
+				[]
+			],
+			[
+				"body/subdomain-routing.md",
+				[
+					0,
+					0.51,
+					1,
+					0.632,
+					3,
+					0.113,
+					4,
+					0.156,
+					8,
+					0.375,
+					18,
+					0.499,
+					20,
+					0.811,
+					23,
+					0.703,
+					24,
+					0.703,
+					25,
+					0.813,
+					26,
+					1.141,
+					27,
+					0.375,
+					28,
+					0.266,
+					34,
+					0.499,
+					37,
+					0.499,
+					38,
+					0.811,
+					39,
+					0.59,
+					40,
+					0.882,
+					41,
+					0.128,
+					43,
+					0.266,
+					44,
+					0.266,
+					48,
+					0.166,
+					49,
+					1.141,
+					50,
+					0.375,
+					53,
+					0.811,
+					58,
+					1.141,
+					64,
+					0.811,
+					84,
+					1.141,
+					87,
+					0.811,
+					94,
+					0.811,
+					96,
+					1.141,
+					125,
+					0.499,
+					126,
+					0.811,
+					131,
+					0.811,
+					132,
+					1.141,
+					140,
+					1.284,
+					141,
+					1.284,
+					142,
+					1.284,
+					143,
+					1.807,
+					144,
+					1.284,
+					145,
+					1.284,
+					146,
+					1.284,
+					147,
+					1.284,
+					148,
+					1.284,
+					149,
+					2.091,
+					150,
+					2.27,
+					151,
+					1.284,
+					152,
+					1.284,
+					153,
+					1.807,
+					154,
+					1.807,
+					155,
+					1.284,
+					156,
+					1.284,
+					157,
+					1.284,
+					158,
+					1.284,
+					159,
+					1.284,
+					160,
+					1.284,
+					161,
+					1.284,
+					162,
+					1.284,
+					163,
+					1.284,
+					164,
+					1.284,
+					165,
+					1.284,
+					166,
+					1.284,
+					167,
+					1.284,
+					168,
+					1.284,
+					169,
+					1.284,
+					170,
+					1.284,
+					171,
+					1.284,
+					172,
+					1.284,
+					173,
+					1.284,
+					174,
+					1.284,
+					175,
+					1.284
+				]
+			]
+		],
+		"invertedIndex": [
+			[
+				"",
+				{
+					"_index": 39,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"a/b",
+				{
+					"_index": 173,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"activ",
+				{
+					"_index": 161,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"add",
+				{
+					"_index": 133,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"addit",
+				{
+					"_index": 87,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"address",
+				{
+					"_index": 163,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"addstaticrout",
+				{
+					"_index": 65,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"addstaticroute(pfilepath",
+				{
+					"_index": 72,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"ag",
+				{
+					"_index": 113,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"api",
+				{
+					"_index": 5,
+					"title": {
+						"api-reference.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"applic",
+				{
+					"_index": 9,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"appropri",
+				{
+					"_index": 61,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"arriv",
+				{
+					"_index": 146,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"automat",
+				{
+					"_index": 31,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"avail",
+				{
+					"_index": 107,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"back",
+				{
+					"_index": 157,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"base",
+				{
+					"_index": 8,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"basic",
+				{
+					"_index": 127,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"befor",
+				{
+					"_index": 45,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"boolean",
+				{
+					"_index": 115,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"both",
+				{
+					"_index": 102,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"branch",
+				{
+					"_index": 172,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"brand",
+				{
+					"_index": 169,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"build",
+				{
+					"_index": 175,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"built",
+				{
+					"_index": 126,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"cach",
+				{
+					"_index": 110,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"call",
+				{
+					"_index": 54,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"capabl",
+				{
+					"_index": 7,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"case",
+				{
+					"_index": 166,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"catch",
+				{
+					"_index": 134,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"check",
+				{
+					"_index": 58,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"complet",
+				{
+					"_index": 139,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"configur",
+				{
+					"_index": 37,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"content",
+				{
+					"_index": 32,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"control",
+				{
+					"_index": 111,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"core",
+				{
+					"_index": 10,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"cover",
+				{
+					"_index": 17,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"custom",
+				{
+					"_index": 96,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"deep",
+				{
+					"_index": 160,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"default",
+				{
+					"_index": 36,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"depend",
+				{
+					"_index": 106,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"descript",
+				{
+					"_index": 79,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"detect",
+				{
+					"_index": 30,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"develop",
+				{
+					"_index": 20,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"differ",
+				{
+					"_index": 49,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"directli",
+				{
+					"_index": 108,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"directori",
+				{
+					"_index": 27,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"disabl",
+				{
+					"_index": 124,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"disk",
+				{
+					"_index": 28,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"document",
+				{
+					"_index": 16,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"dotfil",
+				{
+					"_index": 118,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"e.g",
+				{
+					"_index": 38,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"each",
+				{
+					"_index": 168,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"effect",
+				{
+					"_index": 19,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"enabl",
+				{
+					"_index": 141,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"environ",
+				{
+					"_index": 171,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"etag",
+				{
+					"_index": 117,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"exampl",
+				{
+					"_index": 94,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"exist",
+				{
+					"_index": 154,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"extens",
+				{
+					"_index": 35,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"fabl",
+				{
+					"_index": 68,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"fall",
+				{
+					"_index": 156,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"featur",
+				{
+					"_index": 26,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"file",
+				{
+					"_index": 3,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"file'",
+				{
+					"_index": 98,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"filesystem",
+				{
+					"_index": 47,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"first",
+				{
+					"_index": 132,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"folder",
+				{
+					"_index": 50,
+					"title": {
+						"subdomain-routing.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"framework",
+				{
+					"_index": 69,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"frontend",
+				{
+					"_index": 131,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"function",
+				{
+					"_index": 11,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"gener",
+				{
+					"_index": 116,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"get",
+				{
+					"_index": 125,
+					"title": {
+						"getting-started.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"github",
+				{
+					"_index": 70,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"handl",
+				{
+					"_index": 101,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"handler",
+				{
+					"_index": 56,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"header",
+				{
+					"_index": 34,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"host",
+				{
+					"_index": 25,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"includ",
+				{
+					"_index": 64,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"infrastructur",
+				{
+					"_index": 145,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"inspect",
+				{
+					"_index": 147,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"instal",
+				{
+					"_index": 93,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"ip",
+				{
+					"_index": 162,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"level",
+				{
+					"_index": 159,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"librari",
+				{
+					"_index": 90,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"limit",
+				{
+					"_index": 158,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"live",
+				{
+					"_index": 12,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"lookup",
+				{
+					"_index": 85,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"main",
+				{
+					"_index": 13,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"map",
+				{
+					"_index": 46,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"match",
+				{
+					"_index": 84,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"max",
+				{
+					"_index": 112,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"method",
+				{
+					"_index": 15,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"mime",
+				{
+					"_index": 29,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"minim",
+				{
+					"_index": 95,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"modul",
+				{
+					"_index": 100,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"module'",
+				{
+					"_index": 14,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"more",
+				{
+					"_index": 148,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"ms",
+				{
+					"_index": 114,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"multi",
+				{
+					"_index": 23,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"next",
+				{
+					"_index": 137,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"number/str",
+				{
+					"_index": 109,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"object",
+				{
+					"_index": 86,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"on",
+				{
+					"_index": 149,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"option",
+				{
+					"_index": 88,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"orat",
+				{
+					"_index": 0,
+					"title": {
+						"README.md": {},
+						"_cover.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"orator'",
+				{
+					"_index": 140,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"overrid",
+				{
+					"_index": 123,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"packag",
+				{
+					"_index": 63,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"page",
+				{
+					"_index": 22,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"paramet",
+				{
+					"_index": 77,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"pass",
+				{
+					"_index": 89,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"path",
+				{
+					"_index": 59,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"pathnam",
+				{
+					"_index": 121,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"pattern",
+				{
+					"_index": 83,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"pdefaultfil",
+				{
+					"_index": 73,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"pparam",
+				{
+					"_index": 76,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"prefix",
+				{
+					"_index": 44,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"prout",
+				{
+					"_index": 74,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"proutestrip",
+				{
+					"_index": 75,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"provid",
+				{
+					"_index": 6,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"quick",
+				{
+					"_index": 51,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"redirect",
+				{
+					"_index": 119,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"refer",
+				{
+					"_index": 71,
+					"title": {
+						"api-reference.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"regist",
+				{
+					"_index": 55,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"relat",
+				{
+					"_index": 62,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"request",
+				{
+					"_index": 40,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"requir",
+				{
+					"_index": 78,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"resolv",
+				{
+					"_index": 130,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"respons",
+				{
+					"_index": 97,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"restifi",
+				{
+					"_index": 67,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"return",
+				{
+					"_index": 91,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"rout",
+				{
+					"_index": 41,
+					"title": {
+						"subdomain-routing.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"saa",
+				{
+					"_index": 167,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"segment",
+				{
+					"_index": 150,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"serv",
+				{
+					"_index": 4,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"server",
+				{
+					"_index": 2,
+					"title": {
+						"README.md": {},
+						"_cover.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"servic",
+				{
+					"_index": 57,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"serviceserv",
+				{
+					"_index": 66,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"set",
+				{
+					"_index": 60,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"setup",
+				{
+					"_index": 143,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"simpl",
+				{
+					"_index": 142,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"simplest",
+				{
+					"_index": 128,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"singl",
+				{
+					"_index": 21,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"spa",
+				{
+					"_index": 129,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"specif",
+				{
+					"_index": 82,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"start",
+				{
+					"_index": 52,
+					"title": {
+						"getting-started.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"static",
+				{
+					"_index": 1,
+					"title": {
+						"README.md": {},
+						"_cover.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"step",
+				{
+					"_index": 138,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"string",
+				{
+					"_index": 80,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"string/boolean",
+				{
+					"_index": 122,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"strip",
+				{
+					"_index": 42,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"structur",
+				{
+					"_index": 155,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"subdomain",
+				{
+					"_index": 48,
+					"title": {
+						"subdomain-routing.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"subfold",
+				{
+					"_index": 153,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"subpath",
+				{
+					"_index": 136,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"successfulli",
+				{
+					"_index": 92,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"take",
+				{
+					"_index": 152,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"tenant",
+				{
+					"_index": 24,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"test",
+				{
+					"_index": 174,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"trail",
+				{
+					"_index": 120,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"transpar",
+				{
+					"_index": 105,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"trigger",
+				{
+					"_index": 165,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"type",
+				{
+					"_index": 33,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"ui",
+				{
+					"_index": 170,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"under",
+				{
+					"_index": 135,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"getting-started.md": {}
+					}
+				}
+			],
+			[
+				"unknown",
+				{
+					"_index": 99,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"url",
+				{
+					"_index": 43,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {},
+						"getting-started.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"us",
+				{
+					"_index": 18,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api-reference.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"v1",
+				{
+					"_index": 103,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"v2",
+				{
+					"_index": 104,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			],
+			[
+				"vs",
+				{
+					"_index": 151,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"without",
+				{
+					"_index": 144,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"won't",
+				{
+					"_index": 164,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"work",
+				{
+					"_index": 53,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"subdomain-routing.md": {}
+					}
+				}
+			],
+			[
+				"ye",
+				{
+					"_index": 81,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api-reference.md": {}
+					}
+				}
+			]
+		],
 		"pipeline": [
 			"stemmer"
 		]
 	},
-	"Documents": {}
+	"Documents": {
+		"README.md": {
+			"Title": "Orator Static Server",
+			"Module": "orator-static-server",
+			"Group": "",
+			"DocPath": "README.md"
+		},
+		"_cover.md": {
+			"Title": "Orator Static Server",
+			"Module": "orator-static-server",
+			"Group": "",
+			"DocPath": "_cover.md"
+		},
+		"api-reference.md": {
+			"Title": "API Reference",
+			"Module": "orator-static-server",
+			"Group": "",
+			"DocPath": "api-reference.md"
+		},
+		"getting-started.md": {
+			"Title": "Getting Started",
+			"Module": "orator-static-server",
+			"Group": "",
+			"DocPath": "getting-started.md"
+		},
+		"subdomain-routing.md": {
+			"Title": "Subdomain Folder Routing",
+			"Module": "orator-static-server",
+			"Group": "",
+			"DocPath": "subdomain-routing.md"
+		}
+	}
 }
