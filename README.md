@@ -1,5 +1,7 @@
 # Orator Static Server
 
+> **[&#9654; Read the Orator-Static-Server Documentation](https://stevenvelozo.github.io/orator-static-server/)** &mdash; interactive docs with the full API reference.
+
 > Static file serving for Orator API servers
 
 Orator Static Server provides static file serving capabilities for Orator. The core static file serving functionality is built directly into the main [orator](https://github.com/stevenvelozo/orator) module via the `addStaticRoute` method, which serves files from disk with MIME type detection and subdomain-based folder routing.
