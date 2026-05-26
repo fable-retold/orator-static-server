@@ -1,10 +1,10 @@
 # Orator Static Server
 
-> **[&#9654; Read the Orator-Static-Server Documentation](https://stevenvelozo.github.io/orator-static-server/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Orator-Static-Server Documentation](https://fable-retold.github.io/orator-static-server/)** &mdash; interactive docs with the full API reference.
 
 > Static file serving for Orator API servers
 
-Orator Static Server provides static file serving capabilities for Orator. The core static file serving functionality is built directly into the main [orator](https://github.com/stevenvelozo/orator) module via the `addStaticRoute` method, which serves files from disk with MIME type detection and subdomain-based folder routing.
+Orator Static Server provides static file serving capabilities for Orator. The core static file serving functionality is built directly into the main [orator](https://github.com/fable-retold/orator) module via the `addStaticRoute` method, which serves files from disk with MIME type detection and subdomain-based folder routing.
 
 ## Features
 
@@ -101,9 +101,9 @@ npx docsify-cli serve docs
 
 ## Related Packages
 
-- [orator](https://github.com/stevenvelozo/orator) - API server abstraction
-- [orator-serviceserver-restify](https://github.com/stevenvelozo/orator-serviceserver-restify) - Restify service server implementation
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
+- [orator](https://github.com/fable-retold/orator) - API server abstraction
+- [orator-serviceserver-restify](https://github.com/fable-retold/orator-serviceserver-restify) - Restify service server implementation
+- [fable](https://github.com/fable-retold/fable) - Application services framework
 
 ## License
 

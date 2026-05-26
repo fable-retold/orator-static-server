@@ -7,5 +7,5 @@
 - Subdomain-based folder routing
 - Configurable default files and route stripping
 
-[GitHub](https://github.com/stevenvelozo/orator-static-server)
+[GitHub](https://github.com/fable-retold/orator-static-server)
 [Get Started](#orator-static-server)

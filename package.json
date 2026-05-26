@@ -29,14 +29,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/stevenvelozo/orator-static-server.git"
+        "url": "git+https://github.com/fable-retold/orator-static-server.git"
     },
     "author": "steven velozo <steven@velozo.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/stevenvelozo/orator-static-server/issues"
+        "url": "https://github.com/fable-retold/orator-static-server/issues"
     },
-    "homepage": "https://github.com/stevenvelozo/orator-static-server#readme",
+    "homepage": "https://github.com/fable-retold/orator-static-server#readme",
     "dependencies": {
         "fable-serviceproviderbase": "^3.0.19",
         "finalhandler": "^2.1.1",
