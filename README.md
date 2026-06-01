@@ -1,6 +1,6 @@
 # Orator Static Server
 
-> **[&#9654; Read the Orator-Static-Server Documentation](https://fable-retold.github.io/orator-static-server/)** &mdash; interactive docs with the full API reference.
+> **[Read the Orator-Static-Server Documentation](https://fable-retold.github.io/orator-static-server/)** - interactive docs with the full API reference.
 
 > Static file serving for Orator API servers
 
