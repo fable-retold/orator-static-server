@@ -6,17 +6,8 @@ Orator's static file serving includes a built-in feature for subdomain-based fol
 
 When a request arrives, Orator inspects the `Host` header for subdomain prefixes. If the host has more than one segment (e.g., `clienta.example.com` vs just `localhost`), Orator takes the first segment and checks if a matching subfolder exists in the serve directory.
 
-```
-Request: http://clienta.example.com/page.html
-Host header: clienta.example.com
-    ↓
-Split host: ["clienta", "example", "com"]
-First segment: "clienta"
-    ↓
-Check: does ./sites/clienta/ exist?
-    ├── Yes -> Serve from ./sites/clienta/page.html
-    └── No  -> Serve from ./sites/page.html
-```
+<!-- bespoke diagram: edit diagrams/how-it-works.mmd or .hints.json, then: npx pict-renderer-graph build modules/orator/orator-static-server/docs -->
+![How It Works](diagrams/how-it-works.svg)
 
 ## Setup
 
@@ -27,19 +18,8 @@ _Fable.Orator.addStaticRoute('./sites/');
 
 ## Directory Structure
 
-```
-sites/
-├── index.html           <- Served for requests without subdomain match
-├── styles.css
-├── clienta/
-│   ├── index.html       <- Served for clienta.example.com
-│   └── styles.css
-├── clientb/
-│   ├── index.html       <- Served for clientb.example.com
-│   └── styles.css
-└── shared/
-    └── logo.png
-```
+<!-- bespoke diagram: edit diagrams/directory-structure.mmd or .hints.json, then: npx pict-renderer-graph build modules/orator/orator-static-server/docs -->
+![Directory Structure](diagrams/directory-structure.svg)
 
 ## Example Requests
 

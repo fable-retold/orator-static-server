@@ -1,0 +1,9 @@
+Request: http://clienta.example.com/page.html
+Host header: clienta.example.com
+    ↓
+Split host: ["clienta", "example", "com"]
+First segment: "clienta"
+    ↓
+Check: does ./sites/clienta/ exist?
+    ├── Yes -> Serve from ./sites/clienta/page.html
+    └── No  -> Serve from ./sites/page.html
